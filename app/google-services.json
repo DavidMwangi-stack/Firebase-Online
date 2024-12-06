@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640352198509",
+    "project_id": "fir-online-75244",
+    "storage_bucket": "fir-online-75244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640352198509:android:f5dee33c0e382c70dfc464",
+        "android_client_info": {
+          "package_name": "com.david.firebaseonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHk4uW_gf9hI-bYXFtBRF1RNIoTHu2ORQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
